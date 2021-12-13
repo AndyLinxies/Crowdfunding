@@ -9,7 +9,7 @@ L'utilisateur devrait être capable de :
 
 - Voir les états "hover" de tous les éléments interractifs de la page
 - Sélectionner le pledge qu'il veut faire
-- Voir la barre de progrès et le total d'argent changer lorsqu'un pledge est confirmé
+- Voir la barre de progrès et le total d'argent changé lorsqu'un pledge est confirmé
 - Voir le total de backers s'incrémenter après avoir confirmé un pledge
 - Sauvegarder (bookmark) le produit
 
